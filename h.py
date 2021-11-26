@@ -1,4 +1,4 @@
-#Q-1)
+#Q-1):-Json to Python
 import json
 a={"Name":"Ram", 
      "Class":"IV", 
