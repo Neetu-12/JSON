@@ -6,3 +6,10 @@ a={
 }
 f=json.dumps(a,indent=2)
 print(f)
+
+##output:-
+{
+    "name": "David", 
+    "class": "I", 
+    "age": 6
+}
