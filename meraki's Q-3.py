@@ -7,3 +7,10 @@ a={
 }
 f=json.dumps(a)
 print(type(f),f)
+
+#2)))
+#Json to Python...
+import json
+a='{"one":1,"two":2,"three":3}'
+b=json.loads(a)
+print(type(b))
